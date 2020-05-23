@@ -54,3 +54,7 @@
 /Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
 /Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
 /Users/charlesburch/Desktop/projects/skinet/API/obj/Debug/netcoreapp3.1/API.csproj.CopyComplete
+/Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/Core.dll
+/Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/Infrastructure.dll
+/Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/Infrastructure.pdb
+/Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/Core.pdb
