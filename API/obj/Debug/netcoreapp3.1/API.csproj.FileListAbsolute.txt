@@ -58,3 +58,5 @@
 /Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/Infrastructure.dll
 /Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/Infrastructure.pdb
 /Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/charlesburch/Desktop/projects/skinet/API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
