@@ -1,4 +1,5 @@
 using API.Helpers;
+using API.Middleware;
 using AutoMapper;
 using Core.Interfaces;
 using Infrastructure.Data;
@@ -40,6 +41,8 @@ namespace API
                 app.UseDeveloperExceptionPage();
             }
             //middleware 
+            app.UseMiddleware<ExceptionMiddleware>();
+
             app.UseStatusCodePagesWithReExecute("/errors/{0}"); 
 
             app.UseHttpsRedirection();
