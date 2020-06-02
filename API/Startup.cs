@@ -39,6 +39,8 @@ namespace API
             {
                 app.UseDeveloperExceptionPage();
             }
+            //middleware 
+            app.UseStatusCodePagesWithReExecute("/errors/{0}"); 
 
             app.UseHttpsRedirection();
 
